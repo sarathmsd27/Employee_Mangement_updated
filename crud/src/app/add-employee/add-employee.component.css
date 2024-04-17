@@ -1,0 +1,11 @@
+.card{
+    width: 70%;
+    margin-left: 20%;
+    padding-top: 10px;
+}
+.row{
+    padding-top:10px;
+}
+.validators{
+    color:rgb(201, 5, 5)
+}
